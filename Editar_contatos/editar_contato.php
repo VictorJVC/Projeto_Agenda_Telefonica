@@ -48,6 +48,10 @@ $contato = $bd->select("SELECT * FROM dados WHERE id_contato = :id_contato", $pa
             <input type="text" name="text_telefone" maxlength="20" value="<?= $contato['telefone'] ?>">
         </div>
         <div>
+            <label>Endereço:</label>
+            <input type="text" name="text_endereco" maxlength="50" value="<?= $contato['endereco'] ?>">
+        </div>
+        <div>
             <input type="submit" value="Guardar">
         </div>
         <div>

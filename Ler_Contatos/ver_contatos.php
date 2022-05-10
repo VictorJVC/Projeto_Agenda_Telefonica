@@ -30,6 +30,7 @@ $contatos = $bd->select("SELECT * FROM dados");
             <tr>
                 <th>Nome</th>
                 <th>Telefone</th>
+                <th>Endereço</th>
                 <th>-</th>
                 <th>-</th>
             </tr>
@@ -41,6 +42,7 @@ $contatos = $bd->select("SELECT * FROM dados");
                 <tr>
                     <td><?= $contato['nome'] ?></td>
                     <td><?= $contato['telefone'] ?></td>
+                    <td><?= $contato['endereco'] ?></td>
                     <!--passa para o arquivo por GET ?id=                     começo da encriptacao openssl depois a desemcriptacao para mostrar o valor no link-->
                     <td><a href="../Editar_contatos/editar_contato.php?id=<?= aes_encriptar($contato['id_contato']) ?>">Editar</a></td>
                     <td><a href="../Deletar_Contatos/deletar_contato.php?id=<?= aes_encriptar($contato['id_contato']) ?>">Deletar</a></td>

@@ -21,6 +21,10 @@
             <input type="text" name="text_telefone" maxlength="20">
         </div>
         <div>
+            <label>Endereço:</label>
+            <input type="text" name="text_endereco" maxlength="50">
+        </div>
+        <div>
             <input type="submit" value="Guardar">
         </div>
         <div>

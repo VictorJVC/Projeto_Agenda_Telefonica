@@ -20,15 +20,17 @@ if($id_contato == -1 || $id_contato == false){
 
 $nome = $_POST['text_nome'];
 $telefone = $_POST['text_telefone'];
+$endereco = $_POST['text_endereco'];
 
 
 $parameters = [
     ':id_contato' => $id_contato,
     ':nome' => $nome,
-    ':telefone' => $telefone
+    ':telefone' => $telefone,
+    ':endereco' => $endereco
 ];
 
-$bd->update("UPDATE dados SET nome = :nome, telefone = :telefone WHERE id_contato = :id_contato", $parameters);
+$bd->update("UPDATE dados SET nome = :nome, telefone = :telefone, endereco = :endereco WHERE id_contato = :id_contato", $parameters);
 ?>
 
 <!DOCTYPE html>
