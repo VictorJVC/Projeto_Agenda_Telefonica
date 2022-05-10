@@ -3,9 +3,9 @@
 define('MYSQL_OPTIONS',
     [
         'db_host' => 'localhost',
-        'db_name' => '',
-        'db_user' => '',
-        'db_pass' => '',
+        'db_name' => 'contatos',
+        'db_user' => 'agenda_tel',
+        'db_pass' => '12345',
         'db_char' => 'utf8'
     ]
 );
