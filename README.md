@@ -19,7 +19,7 @@
 - LARAGON: Apache, MySQL e PHP
 
 # Forma de acesso e utilização:
-- 1.Baixe a ferramenta LARAGON
+- 1.Baixe a ferramenta LARAGON: https://laragon.org/download/index.html
 - 2.Inicialize a ferramenta LARAGON
 - 3.Banco de dados: Mysql
 - 4.Pelo menu de utilidades do LARAGON, acesse o heidisql e acesse 
