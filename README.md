@@ -5,7 +5,7 @@
 - Desenvolvedor: Victor Freitas
 
 # Requisitos para o desenvolvimento:
-- Aplicação web de uma agenda telefônica, utilizando os princípios de orientação objeto (PDO/Mysql), em que seja possível informar nome e telefone. 
+- Aplicação web de uma agenda telefônica, utilizando os princípios de orientação objeto (PDO/Mysql), em que seja possível informar nome e telefone através do curso preparatorio intensivo de PHP Intermediario.
 - Permitir incluir, alterar, excluir e exibir os registros cadastrados. 
 - Armazene os dados usando um banco de dados.
 
