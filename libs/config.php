@@ -3,14 +3,14 @@
 define('MYSQL_OPTIONS',
     [
         'db_host' => 'localhost',
-        'db_name' => 'contatos',
-        'db_user' => 'agenda_tel',
-        'db_pass' => '12345',
+        'db_name' => '', // aqui
+        'db_user' => '', // aqui
+        'db_pass' => '', // aqui
         'db_char' => 'utf8'
     ]
 );
 //encriptacao em openssl para protecao dos dados em VER CONTATOS 
-define('AES_KEY',':tJRr*ZFIX]&<vWsTASiNI[zi$gH)Omc'); //32 caracteres gerado *****
+define('AES_KEY',':tJRr*ZFIX]&<vWsTASiNI[zi$gH)Omc'); //32 caracteres gerado  /// Gere novo se precisar
 define('AES_IV','Yv6eNeFeuUM72CBS');
 
 function aes_encriptar($valor){
