@@ -22,9 +22,9 @@ class EasyPDO
     // CONNETION PROPERTIES
     // ------------------------------------------------------------------------
     private $db_host = 'localhost'; // usar aqui quando nao pedir o require_once das constantes em config.php
-    private $db_name = '';
-    private $db_user = '';
-    private $db_pass = '';
+    private $db_name = ''; //
+    private $db_user = ''; //
+    private $db_pass = ''; //
     private $db_char = 'utf8';
 
     // ------------------------------------------------------------------------
