@@ -1,7 +1,7 @@
 <?php
 
-//eliminar contato
 
+//eliminar contato
 if(!isset($_GET['id'])){
     die('Acesso invalido');
 }

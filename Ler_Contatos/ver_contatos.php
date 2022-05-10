@@ -12,7 +12,6 @@ $contatos = $bd->select("SELECT * FROM dados");
 
 ?>
 
-
 <!DOCTYPE html>
 <html lang="en">
 

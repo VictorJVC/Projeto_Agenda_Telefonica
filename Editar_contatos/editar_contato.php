@@ -11,6 +11,7 @@ require_once('../libs/EasyPDO.php');
 require_once('../libs/config.php');
 $bd = new EasyPDO\EasyPDO(MYSQL_OPTIONS);
 
+
 // desencriptando o hash neste 2° script
 $id_contato = aes_desencriptar($id_contato);
 

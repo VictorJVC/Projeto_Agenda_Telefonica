@@ -1,6 +1,7 @@
 <?php
 // utilizar objeto ou usar o metodo use EasyPDO\EASYPDO
 
+
 //verificar se foi feito um post
 if ($_SERVER['REQUEST_METHOD'] != 'POST') //se invadir/introduzir diretamente a url
 {

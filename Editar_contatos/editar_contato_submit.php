@@ -5,6 +5,7 @@ if ($_SERVER['REQUEST_METHOD'] != 'POST') {
     die('Acesso Negado');
 }
 
+
 //abrir a base de dados
 require_once('../libs/EasyPDO.php');
 require_once('../libs/config.php');

@@ -15,7 +15,6 @@
     <span> | </span>
     <a href="../Projeto_Agenda_Telefonica/Ler_Contatos/ver_contatos.php">Ver Contatos</a>
 
-
 </body>
 </html>
 
