@@ -26,9 +26,9 @@
 - 5.Agora voce irá criar um banco de dados e nomeie para "contatos"
 - 6.Agora crie a tabela e nomeie para "dados"
 - 7.Adicione 3 colunas sendo: 
-a 1° nomeada de id_contato
-a 2° nomeada de nome
-a 3° nomeada de telefone
+-   1° coluna nomeada de id_contato
+-   2° coluna nomeada de nome
+-   3° coluna nomeada de telefone
 - 8.Agora no Visual studio code https://code.visualstudio.com/download acesse a pasta libs e acesse o config.php
 . Preencha no arquivo config.php na pasta libs, o nome do seu servidor e usuario local criados no Laragon em Mysql (editor Heidisql)
 . Caso precise, gere senhas no Visual Studio pelo recurso Generate ramdom string/password para a segurança openssl.
