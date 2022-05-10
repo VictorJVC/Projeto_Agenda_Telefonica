@@ -1,6 +1,6 @@
 # Project_CRUD
 
-Web Agenda telefonica em preenchimento de Banco de dados Mysql.
+Web Agenda telefonica com preenchimento de Banco de dados Mysql.
 --------------------------------------------------------------------------------------------------------------------
 Web Instrucoes de uso:
 --------------------------------------------------------------------------------------------------------------------
