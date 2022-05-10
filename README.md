@@ -20,17 +20,16 @@
 
 # Forma de acesso e utilização:
 - 1.Baixe a ferramenta LARAGON: https://laragon.org/download/index.html
-- 2.Inicialize a ferramenta LARAGON
-- 3.Banco de dados: Mysql
-- 4.Pelo menu de utilidades do LARAGON, acesse o heidisql e acesse 
-- 5.Utilizador: root | Palavra-passe: crie um pass
-- 6.Agora voce irá criar um banco de dados e nomeie de "contatos"
-- 7.Agora crie a tabela e nomeie de "dados"
-- 8.Adicione 3 colunas sendo: 
+- 2.Inicialize a ferramenta LARAGON para criar o banco de dados
+- 3.Pelo menu de utilidades do LARAGON, acesse o heidisql em Mysql 
+- 4.Logue a sessão utilizador: root | Palavra-passe: sua palavra passe
+- 5.Agora voce irá criar um banco de dados e nomeie para "contatos"
+- 6.Agora crie a tabela e nomeie para "dados"
+- 7.Adicione 3 colunas sendo: 
 a 1° nomeada de id_contato
 a 2° nomeada de nome
 a 3° nomeada de telefone
-- 9.Agora no Visual studio code acesse a pasta libs e acesse o config.php
+- 8.Agora no Visual studio code acesse a pasta libs e acesse o config.php
 . Preencha no arquivo config.php na pasta libs, o nome do seu servidor e usuario local criados no Laragon em Mysql (editor Heidisql)
 . Caso precise, gere senhas no Visual Studio pelo recurso Generate ramdom string/password para a segurança openssl.
 . Terminado.
