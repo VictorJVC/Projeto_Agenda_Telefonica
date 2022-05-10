@@ -33,7 +33,7 @@
 . Preencha no arquivo config.php na pasta libs, o nome do seu servidor e usuario local criados no Laragon em Mysql (editor Heidisql)
 . Caso precise, gere senhas no Visual Studio pelo recurso Generate ramdom string/password para a segurança openssl.
 . Terminado.
-. obs. O arquivo guia de diretórios e da Interface inicial é o index.php ****
+. obs. O arquivo guia de diretórios e da Interface inicial é o index.php *
 - Após seguir os passos, utilizar a aplicação WEB.
 --------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------
@@ -42,4 +42,5 @@
 - Consulte 
 - Edite
 - Exclua 
+--------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------
