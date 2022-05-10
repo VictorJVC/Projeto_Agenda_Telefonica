@@ -29,7 +29,7 @@
 a 1° nomeada de id_contato
 a 2° nomeada de nome
 a 3° nomeada de telefone
-- 8.Agora no Visual studio code acesse a pasta libs e acesse o config.php
+- 8.Agora no Visual studio code https://code.visualstudio.com/download acesse a pasta libs e acesse o config.php
 . Preencha no arquivo config.php na pasta libs, o nome do seu servidor e usuario local criados no Laragon em Mysql (editor Heidisql)
 . Caso precise, gere senhas no Visual Studio pelo recurso Generate ramdom string/password para a segurança openssl.
 . Terminado.
