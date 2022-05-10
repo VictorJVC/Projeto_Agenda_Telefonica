@@ -1,9 +1,6 @@
 # Projeto Agenda_Telefonica PHP/Mysql 
 
 
-
-
---------------------------------------------------------------------------------------------------------------------
 # Agenda Telefônica:
 - Desenvolvedor: Victor Freitas
 
