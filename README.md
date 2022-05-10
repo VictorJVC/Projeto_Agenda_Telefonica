@@ -1,5 +1,4 @@
 # Projeto Agenda_Telefonica PHP/Mysql (PDO) 
-# - html Basico sem css -
 
 # Agenda Telefônica:
 - Desenvolvedor: Victor Freitas
