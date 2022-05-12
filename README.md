@@ -1,4 +1,4 @@
-# Eercicio - Projeto Agenda_Telefonica PHP/Mysql (PDO) 
+# Exercicio - Projeto Agenda_Telefonica PHP/Mysql (PDO) 
 
 # Agenda Telefônica:
 - Desenvolvedor: Victor Freitas
