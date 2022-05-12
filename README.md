@@ -12,7 +12,7 @@
 - HTML, PHP, Mysql
 
 # Estilizaçao 
-- PDO
+- Html
 
 # Servidor WEB:
 - LARAGON: Apache, MySQL e PHP
