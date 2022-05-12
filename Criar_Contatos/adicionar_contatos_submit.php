@@ -16,7 +16,7 @@ $endereco = $_POST['text_endereco'];
 require_once('../libs/config.php');
 require_once('../libs/EasyPDO.php');
 
-$bd = new EasyPDO\EasyPDO(MYSQL_OPTIONS); //para usar metodos da classe EasyPDO 
+$bd = new EasyPDO\EasyPDO(MYSQL_OPTIONS); //passa o argumento do config.php para usar metodos da classe EasyPDO 
 
 //parametros array associativo
 $parameters = [

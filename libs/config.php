@@ -1,11 +1,12 @@
 <?php
 //utilize seu usuario no mysql ou heidisql utilizando servidor local laragon
+//constantes com array associativo para passar como argumento pra dentro da classe EASYPDO
 define('MYSQL_OPTIONS',
-    [
+    [                    //preencher
         'db_host' => 'localhost',
-        'db_name' => 'contatos', // aqui 
-        'db_user' => 'agenda_tel', // aqui 
-        'db_pass' => '12345', // aqui 
+        'db_name' => '', //aqui
+        'db_user' => '', //aqui
+        'db_pass' => '', //aqui
         'db_char' => 'utf8'
     ]
 );
